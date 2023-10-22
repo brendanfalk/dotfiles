@@ -1,7 +1,7 @@
 # Brendan dotfiles
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/brendanfalk/dotfiles/main/install.sh
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/brendanfalk/dotfiles/main/install.sh)"
 ```
 
 ## Todos

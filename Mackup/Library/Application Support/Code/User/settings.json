@@ -1,0 +1,46 @@
+{
+  "sqltools.highlightQuery": false,
+  "kite.showWelcomeNotificationOnStartup": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "codespaces.accountProvider": "Microsoft",
+  "workbench.startupEditor": "welcomePage",
+  "explorer.confirmDelete": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "terminal.integrated.inheritEnv": false,
+  "editor.accessibilitySupport": "off",
+  "tabnine.experimentalAutoImports": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  // this is a test
+  // abc def
+  "auto-rename-tag.activationOnLanguage": ["*"],
+  "settingsSync.ignoredSettings": [],
+  "terminal.integrated.shell.osx": "zsh",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.tabs.enabled": true,
+  "editor.fontSize": 13,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false
+  },
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorStyleInactive": "line",
+  "editor.wordWrap": "on"
+}

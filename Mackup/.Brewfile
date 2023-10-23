@@ -19,6 +19,7 @@ brew "mackup"
 
 # Apps
 cask "1password"
+cask "authy"
 cask "bartender"
 cask "discord"
 cask "docker"

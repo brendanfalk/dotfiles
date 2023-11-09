@@ -5,6 +5,7 @@ export PS1="%. \$ "
 ### Aliases
 alias ..='cd ..'
 alias c="clear"
+alias g="git"
 alias rm='trash'
 alias exa='exa --long --grid --all  -@ --git --time modified --octal-permissions --header --numeric --time-style long-iso --classify --reverse -s type --color always'
 alias who='who -H'

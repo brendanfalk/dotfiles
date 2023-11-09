@@ -16,6 +16,7 @@ brew "ripgrep"
 brew "starship"
 brew "trash"
 brew "mackup"
+brew "gifski"
 
 # Apps
 cask "1password"
@@ -41,3 +42,4 @@ cask "whatsapp"
 # Mac App Store
 mas "Bear", id: 1091189122
 mas "The Unarchiver", id: 425424353
+mas "Gifski", id: 1351639930

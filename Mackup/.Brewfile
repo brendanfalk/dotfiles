@@ -17,6 +17,7 @@ brew "starship"
 brew "trash"
 brew "mackup"
 brew "gifski"
+brew "nvm"
 
 # Apps
 cask "1password"
